@@ -1,0 +1,4 @@
+frogmilk:
+  glowing-duration: 30  # in seconds
+  water-breathing-duration: 120
+  night-vision-duration: 120

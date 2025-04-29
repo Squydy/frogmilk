@@ -1,0 +1,6 @@
+name: FrogMilk
+version: 1.0
+main: dev.frogmilk.FrogMilk
+api-version: 1.20
+author: Squydy
+description: Milk frogs. Do it. Coward
